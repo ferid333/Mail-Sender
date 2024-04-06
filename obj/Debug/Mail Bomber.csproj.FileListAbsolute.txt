@@ -1,0 +1,7 @@
+C:\Users\ferid\source\repos\Mail Bomber\Mail Bomber\obj\Debug\Mail Bomber.csproj.AssemblyReference.cache
+C:\Users\ferid\source\repos\Mail Bomber\Mail Bomber\obj\Debug\Mail Bomber.csproj.CoreCompileInputs.cache
+C:\Users\ferid\source\repos\Mail Bomber\Mail Bomber\bin\Debug\Mail Bomber.exe.config
+C:\Users\ferid\source\repos\Mail Bomber\Mail Bomber\bin\Debug\Mail Bomber.exe
+C:\Users\ferid\source\repos\Mail Bomber\Mail Bomber\bin\Debug\Mail Bomber.pdb
+C:\Users\ferid\source\repos\Mail Bomber\Mail Bomber\obj\Debug\Mail Bomber.exe
+C:\Users\ferid\source\repos\Mail Bomber\Mail Bomber\obj\Debug\Mail Bomber.pdb
